@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "sass": "^1.74.1"
+    "sass": "^1.103.1"
   },
   "devDependencies": {
     "grunt": "^1.6.1",
