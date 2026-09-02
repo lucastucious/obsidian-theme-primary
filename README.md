@@ -1,3 +1,5 @@
+A fork of [primary theme for obsidian](https://github.com/primary-theme/obsidian) because the original creator doenst seems to be active anymore.
+
 ![Primary for Obsidian Overview](https://github.com/primary-theme/obsidian/blob/main/assets/obsidian-overview-header.png)
 <h1 align="center">Primary for <a href="https://obsidian.md">Obsidian</a></h1>
 <p align="center">
