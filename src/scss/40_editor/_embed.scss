@@ -44,7 +44,7 @@ video {
 
 // Mathjax | LaTeX
 .markdown-preview-view .math-block {
-    overflow: scroll;
+    overflow: auto;
     width: 100%;
 }
 
